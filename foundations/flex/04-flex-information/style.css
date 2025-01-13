@@ -10,6 +10,24 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  margin-bottom: 32px;
+  text-align: center;
+}
+
+.fruit-list {
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+
+.fruit-card {
+  text-align: center;
+  width: 200px;
+}
+
+.text {
+  text-align: center;
+  text-wrap: wrap;
 }
 
 /* do not edit this footer */
